@@ -1,3 +1,4 @@
+
 # 🧪 Proyecto Final de Química Orgánica — Reacciones y Obtenciones de Hidrocarburos
 
 > **Proyecto académico** | Química Orgánica (QUIMORG 2026-III)  
