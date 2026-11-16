@@ -1,0 +1,1 @@
+{"$schema":"https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json","name":"bab2f050c0a4e097524c","displayName":"Portada ","displayOption":"FitToPage","height":1080,"width":1920,"objects":{"background":[{"properties":{"color":{"solid":{"color":{"expr":{"ThemeDataColor":{"ColorId":0,"Percent":0}}}}}}}]}}
