@@ -263,8 +263,8 @@ Cada integrante debe contribuir al desarrollo del proyecto mediante:
 | Validación de información química |✅ |
 | Desarrollo del análisis en Python |✅ |
 | Elaboración del informe en LaTeX |✅|
-| Construcción de la presentación en Power BI | En desarrollo |
-| Revisión final y entrega | Pendiente |
+| Construcción de la presentación en Power BI |✅ |
+| Revisión final y entrega | ✅|
 
 ---
 
