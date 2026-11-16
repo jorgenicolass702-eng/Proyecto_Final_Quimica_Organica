@@ -232,9 +232,9 @@ La presentación se alimenta de la base de datos consolidada en Excel.
 
 | Integrante | Código | Usuario GitHub | Responsabilidad |
 |---|---|---|---|
-| Jorge Nicolás Méndez Castellanos | 20241180048 | @USUARIO_JORGE | Análisis gráfico en Python e informe en LaTeX. |
-| Laura Alejandra Parra | 20252180055 | @USUARIO_LAURA | Por definir. |
-| Gabriela Santamaría | 20252180048 | @USUARIO_GABRIELA | Por definir. |
+| Jorge Nicolás Méndez Castellanos | 20241180048 | @USUARIO_JORGE | Análisis gráfico en Python, Repositorio Git Hub e informe en LaTeX. |
+| Laura Alejandra Parra | 20252180055 | @USUARIO_LAURA | Tabla reacciones y validación de datos |
+| Gabriela Santamaría | 20252180048 | @USUARIO_GABRIELA | Power BI |
 
 ### Participación y colaboración en GitHub
 
@@ -256,13 +256,13 @@ Cada integrante debe contribuir al desarrollo del proyecto mediante:
 
 | Actividad | Estado |
 |---|---|
-| Selección de los 10 hidrocarburos | Según avance del equipo |
-| Recopilación de 100 reacciones | Según avance del equipo |
-| Recopilación de 100 obtenciones | Según avance del equipo |
-| Consolidación de la base de datos Excel | Según avance del equipo |
-| Validación de información química | Según avance del equipo |
-| Desarrollo del análisis en Python | En desarrollo |
-| Elaboración del informe en LaTeX | En desarrollo |
+| Selección de los 10 hidrocarburos | ✅ |
+| Recopilación de 100 reacciones | ✅ |
+| Recopilación de 100 obtenciones | ✅ |
+| Consolidación de la base de datos Excel |✅ |
+| Validación de información química |✅ |
+| Desarrollo del análisis en Python |✅ |
+| Elaboración del informe en LaTeX |✅|
 | Construcción de la presentación en Power BI | En desarrollo |
 | Revisión final y entrega | Pendiente |
 
