@@ -232,7 +232,7 @@ La presentación se alimenta de la base de datos consolidada en Excel.
 
 | Integrante | Código | Usuario GitHub | Responsabilidad |
 |---|---|---|---|
-| Jorge Nicolás Méndez Castellanos | 20241180048 | @USUARIO_JORGE | Análisis gráfico en Python, Repositorio Git Hub e informe en LaTeX. |
+| Jorge Nicolás Méndez Castellanos | 20241180048 | jorgenicolass702-eng | Análisis gráfico en Python, Repositorio Git Hub e informe en LaTeX. |
 | Laura Alejandra Parra | 20252180055 | @USUARIO_LAURA | Tabla reacciones y validación de datos |
 | Gabriela Santamaría | 20252180048 | @USUARIO_GABRIELA | Power BI |
 
